@@ -22,7 +22,7 @@ staged
 
 * [2. Chapter 2](#2-Chapter-2)
 
-    * [2-1. Sub Chapter 1](#2-1-Sub-Chapter-1)
+    * [2-1. Sub Chapter 1](#2-1-sUB-cHAPTER-1)
     
     * [2-2. Sub Chapter 2](#2-2-Sub-Chapter-2)
     
