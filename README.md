@@ -27,7 +27,7 @@ staged
     
         * [2-2-1. Sub Chapter 2 Step 2-1](#2-2-1-Sub-Chapter-2-Step-2-1)
         
-        * [2-2-1. Sub Chapter 2 Step 2-2](#2-2-1-Sub-Chapter-2-Step-2-2)
+        * [2-2-2. Sub Chapter 2 Step 2-2](#2-2-1-Sub-Chapter-2-Step-2-2)
 
 ## 1. Chapter 1
 
